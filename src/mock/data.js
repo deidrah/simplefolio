@@ -59,8 +59,8 @@ export const projectsData = [
     title: 'Bank App',
     info: 'Bank Application made in pure JS, allows you to register accounts and log into them as well as add transactions',
     info2: ' ',
-    url: '',
-    repo: 'https://beryl-important-ogre.glitch.me/', // if no repo, the button will not show up
+    url: 'https://glitch.com/edit/#!/abyssinian-jumbled-cheshire',
+    repo: 'https://abyssinian-jumbled-cheshire.glitch.me', // if no repo, the button will not show up
   },
 ];
 
@@ -89,5 +89,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
